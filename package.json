@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinatfe/ajs_new-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rinatfe/ajs_new-node/issues"
+  },
+  "homepage": "https://github.com/rinatfe/ajs_new-node#readme",
+  "dependencies": {
+    "@rinatfe/ajs_browser_vs_js": "github:rinatfe/ajs_browser_vs_js"
+  }
+}
